@@ -18,7 +18,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := OP4EA7
-PRODUCT_NAME := omni_OP4EA7
+PRODUCT_NAME := twrp_OP4EA7
 PRODUCT_BRAND := OPPO
 PRODUCT_MODEL := PDRM00
 PRODUCT_MANUFACTURER := oppo
